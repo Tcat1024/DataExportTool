@@ -1,0 +1,9 @@
+C:\Users\Tcat\Desktop\WorkSpace\Program\DataExportTool\DataExportTool\bin\Debug\DataExportTool.exe
+C:\Users\Tcat\Desktop\WorkSpace\Program\DataExportTool\DataExportTool\bin\Debug\DataExportTool.pdb
+C:\Users\Tcat\Desktop\WorkSpace\Program\DataExportTool\DataExportTool\obj\Debug\DataExportTool.csprojResolveAssemblyReference.cache
+C:\Users\Tcat\Desktop\WorkSpace\Program\DataExportTool\DataExportTool\obj\Debug\DataExportTool.Form1.resources
+C:\Users\Tcat\Desktop\WorkSpace\Program\DataExportTool\DataExportTool\obj\Debug\DataExportTool.Properties.Resources.resources
+C:\Users\Tcat\Desktop\WorkSpace\Program\DataExportTool\DataExportTool\obj\Debug\DataExportTool.csproj.GenerateResource.Cache
+C:\Users\Tcat\Desktop\WorkSpace\Program\DataExportTool\DataExportTool\obj\Debug\DataExportTool.exe.licenses
+C:\Users\Tcat\Desktop\WorkSpace\Program\DataExportTool\DataExportTool\obj\Debug\DataExportTool.exe
+C:\Users\Tcat\Desktop\WorkSpace\Program\DataExportTool\DataExportTool\obj\Debug\DataExportTool.pdb
